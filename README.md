@@ -14,4 +14,5 @@
 
 - # Links
   <a href="https://www.youtube.com/channel/UCCfBNDkqZtc5FaKBoq5g1eQ"><img width="50" height="50" src="assets/youtube.png"></a>
+  <a href="https://gamejolt.com/@koirlex"><img width="50" height="50" src="assets/gamejolt.png"></a>
 
