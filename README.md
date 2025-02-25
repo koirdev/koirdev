@@ -14,10 +14,4 @@
 # Links
   <a href="https://www.youtube.com/channel/UCCfBNDkqZtc5FaKBoq5g1eQ"><img width="50" height="50" src="assets/youtube.png"></a>
   <a href="https://gamejolt.com/@koirlex"><img width="50" height="50" src="assets/gamejolt.png"></a>
- __         .__           .___           
-|  | ______ |__|______  __| _/_______  __
-|  |/ /  _ \|  \_  __ \/ __ |/ __ \  \/ /
-|    <  <_> )  ||  | \/ /_/ \  ___/\   / 
-|__|_ \____/|__||__|  \____ |\___  >\_/  
-     \/                    \/    \/      
 
