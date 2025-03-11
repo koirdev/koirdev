@@ -2,6 +2,7 @@
 
 -  Programmer & Game Developer
 - The first game was made in 2020
+- 14 year old programmer
   <!-- For my first games I used Pocket Code --!>
  # Programming languages
  <img width="50" height="50" src="assets/python.png"></a>
