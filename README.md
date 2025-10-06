@@ -1,5 +1,5 @@
 # About me
-
+<img width="150" height="150" src="assets/koirdev_spin.gif"></a>
 - 14 y.o
 - I can speak: ***English (UK & US), Russian***
 - Programmer & Game developer
