@@ -1,4 +1,4 @@
-# About me
+# About me <img width="50" height="50" src="assets/koirdev_spin.gif"></p>
 
 - 14 y.o
 - I can speak: ***English (UK & US), Russian***
@@ -16,8 +16,6 @@
 - I use ***Pygame*** and ***Ursina Engine*** for my games
 - I can also work on engines such as: ***Clickteam Fusion***, ***Construct 2/3***
 
----
 
-<img width="150" height="150" src="assets/koirdev_spin.gif"></a>
 
 
