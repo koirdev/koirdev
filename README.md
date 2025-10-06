@@ -1,4 +1,3 @@
-
 # About me
 
 - 14 y.o
