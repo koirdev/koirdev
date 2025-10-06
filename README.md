@@ -15,6 +15,7 @@
 <img width="40" height="40" src="assets/c.svg"></a>
 <img width="40" height="40" src="assets/rust.svg"></a>
 <img width="40" height="40" src="assets/sfml.svg"></a>
+<img width="50" height="50" src="assets/php.svg"></a>
  
 # Game development
 
