@@ -14,6 +14,7 @@
  # I'm learning
 <img width="40" height="40" src="assets/c.svg"></a>
 <img width="40" height="40" src="assets/rust.svg"></a>
+<img width="40" height="40" src="assets/sfml.svg"></a>
  
 # Game development
 
