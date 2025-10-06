@@ -6,13 +6,13 @@
 - I have been programming for 5 years
 
  # Skills
- <img width="40" height="40" src="assets/python.png"></a>
- <img width="40" height="40" src="assets/cpp.png"></a>
- <img width="40" height="40" src="assets/html5.png"></a>
- <img width="40" height="40" src="assets/css3.png"></a>
+ <img width="40" height="40" src="assets/python.svg"></a>
+ <img width="40" height="40" src="assets/cpp.svg"></a>
+ <img width="40" height="40" src="assets/html5.svg"></a>
+ <img width="40" height="40" src="assets/css.svg"></a>
 
  # I'm learning
-
+ <img width="40" height="40" src="assets/c.svg"></a>
  
 # Game development
 
