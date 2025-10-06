@@ -1,12 +1,10 @@
 # About me
-<img width="150" height="150" src="assets/koirdev_spin.gif"></a>
+
 - 14 y.o
 - I can speak: ***English (UK & US), Russian***
 - Programmer & Game developer
 - I have been programming for 5 years
 
-  <!-- For my first games I used Pocket Code --!>
-  
  # Skills
  <img width="40" height="40" src="assets/python.png"></a>
  <img width="40" height="40" src="assets/cpp.png"></a>
@@ -17,5 +15,9 @@
 
 - I use ***Pygame*** and ***Ursina Engine*** for my games
 - I can also work on engines such as: ***Clickteam Fusion***, ***Construct 2/3***
+
+---
+
+<img width="150" height="150" src="assets/koirdev_spin.gif"></a>
 
 
