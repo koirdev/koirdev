@@ -1,8 +1,11 @@
 
 # About me
 
--  Programmer & Game Developer
-- The first game was made in 2020
+- 14 y.o
+- I can speak: ***English (UK & US), Russian***
+-  Programmer & Game developer
+- I have been programming for 5 years
+
   <!-- For my first games I used Pocket Code --!>
   
  # Programming languages
@@ -11,5 +14,7 @@
  
 # Game development
 
-- I use Pygame and Ursina Engine for my games
+- I use ***Pygame*** and ***Ursina Engine*** for my games
+- I can also work on engines such as: ***Clickteam Fusion***, ***Construct 2/3***
+
 
