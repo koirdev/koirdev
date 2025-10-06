@@ -12,7 +12,7 @@
  <img width="40" height="40" src="assets/css3.png"></a>
 
  # I'm learning
- <img width="40" height="40" src="assets/c.png"></a>
+
  
 # Game development
 
