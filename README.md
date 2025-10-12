@@ -15,8 +15,10 @@
 <img width="40" height="40" src="assets/c.svg"></a>
 <img width="40" height="40" src="assets/rust.svg"></a>
 <img width="40" height="40" src="assets/sfml.svg"></a>
+<img width="70" height="70" src="assets/Opengl.svg"></a> 
 <img width="50" height="50" src="assets/php.svg"></a>
- 
+
+
 # Game development
 
 - I use ***Pygame*** and ***Ursina Engine*** for my games
