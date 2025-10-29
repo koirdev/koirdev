@@ -1,9 +1,9 @@
 # About me <img width="50" height="50" src="assets/koirdev_spin.gif"></p>
 
 
-- I speak: ***English (UK & US), Russian***
+- Speak: ***English (UK & US), Russian***
 - Programmer & Game developer
-- I have been programming for 5 years
+- Have been programming for 5 years
 
  # Skills
 <img width="40" height="40" src="assets/python.svg"></a>
@@ -21,13 +21,22 @@
 
 # Game development
 
-- I use ***Pygame*** and ***Ursina Engine*** for my games
-- I can also work on engines such as: ***Clickteam Fusion***, ***Construct 2/3***
+- I use [**Pygame**](https://pygame.org) and [**Ursina Engine**](https://www.ursinaengine.org/) for my games
+- Can also work on engines such as: [**Clickteam Fusion 2.5**](https://www.clickteam.com/clickteam-fusion-2-5), [**Construct 2/3**](https://www.construct.net/en)  
 
 # Work with
 <img width="40" height="40" src="assets/windows.png"></a>
 <img width="40" height="40" src="assets/linux-tux.png"></a>
 <img width="40" height="40" src="assets/android.svg"></a>
+
+# Socials
+
+[**Steam**](https://steamcommunity.com/id/koirdev/) [**GameJolt**](https://gamejolt.com/@koirdev) [**YouTube**](https://youtube.com/@koirdev)
+
+
+
+
+
 
 
 
