@@ -29,9 +29,6 @@
 <img width="40" height="40" src="assets/linux-tux.png"></a>
 <img width="40" height="40" src="assets/android.svg"></a>
 
-# Socials
-
-[**Steam**](https://steamcommunity.com/id/koirdev/) [**GameJolt**](https://gamejolt.com/@koirdev) [**YouTube**](https://youtube.com/@koirdev)
 
 
 
