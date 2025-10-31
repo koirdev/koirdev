@@ -1,4 +1,5 @@
-# About me <img width="50" height="50" src="assets/koirdev_spin.gif"></p>
+# About me <img width="50" height="50" src="assets/koirdev_spin.gif">
+
 
 
 - Speak: ***English (UK & US), Russian***
@@ -29,7 +30,8 @@
 <img width="40" height="40" src="assets/linux-tux.png"></a>
 <img width="40" height="40" src="assets/android.svg"></a>
 
-
+---
+</p><img width="30" height="30" src="assets/mangeta.svg"></p>
 
 
 
