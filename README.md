@@ -34,6 +34,10 @@
 # *Halloween mangeta!*
 </p><img width="50" height="50" src="assets/mangeta.svg"></p>
 
+# Other stuff
+
+[**My pixel arts**](pixelArts.md)
+
 
 
 
