@@ -38,6 +38,10 @@
 
 [**My pixel arts**](https://koirdev.su/pixelArts.html)
 
+[**Socials**](https://koirdev.su/socials.html)
+
+
+
 
 
 
