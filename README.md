@@ -31,7 +31,8 @@
 <img width="40" height="40" src="assets/android.svg"></a>
 
 ---
-</p><img width="30" height="30" src="assets/mangeta.svg"></p>
+# *Halloween mangeta!*
+</p><img width="50" height="50" src="assets/mangeta.svg"></p>
 
 
 
