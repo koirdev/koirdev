@@ -36,7 +36,7 @@
 
 # Other stuff
 
-[**My pixel arts**](pixelArts.md)
+[**My pixel arts**](https://koirdev.su/pixelArts.html)
 
 
 
