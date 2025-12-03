@@ -12,7 +12,7 @@
 <img width="40" height="40" src="assets/html5.svg"></a>
 <img width="40" height="40" src="assets/css.svg"></a>
 
- # I'm learning
+ # Learning
 <img width="40" height="40" src="assets/c.svg"></a>
 <img width="40" height="40" src="assets/rust.svg"></a>
 <img width="40" height="40" src="assets/sfml.svg"></a>
