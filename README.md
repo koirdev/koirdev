@@ -1,6 +1,4 @@
-# About me <img width="50" height="50" src="assets/koirdev_spin.gif">
-
-
+# Bio
 
 - Speak: ***English (UK & US), Russian***
 - Programmer & Game developer
@@ -20,15 +18,22 @@
 <img width="50" height="50" src="assets/php.svg"></a>
 
 
-# Game development
+# Game dev
+<img width="40" height="40" src="assets/cf25.svg"></a>
+<img width="40" height="40" src="assets/pygame.svg"></a>
+<img width="40" height="40" src="assets/ursina.svg"></a>
+<img width="40" height="40" src="assets/construct2.svg"></a>
+<img width="40" height="40" src="assets/construct3.svg"></a>
 
-- I use [**Pygame**](https://pygame.org) and [**Ursina Engine**](https://www.ursinaengine.org/) for my games
-- Can also work on engines such as: [**Clickteam Fusion 2.5**](https://www.clickteam.com/clickteam-fusion-2-5), [**Construct 2/3**](https://www.construct.net/en)  
 
 # Work with
 <img width="40" height="40" src="assets/windows.png"></a>
 <img width="40" height="40" src="assets/linux-tux.png"></a>
 <img width="40" height="40" src="assets/android.svg"></a>
+
+# Credits
+
+pfp: https://ru.pinterest.com/pin/23221754324057594/
 
 
 
