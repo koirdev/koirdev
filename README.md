@@ -2,7 +2,7 @@
 
 - Speak: ***English (UK & US), Russian***
 - Programmer & Game developer
-- Have been programming for 5 years
+- Have been programming for 6 years
 
  # Skills
 <a href="https://python.org/"><img width="40" height="40" src="assets/python.svg"></a>
@@ -33,7 +33,7 @@
 
 # Credits
 
-pfp: https://ru.pinterest.com/pin/23221754324057594/
+pfp: https://pin.it/6e2SIx63s
 
 
 
