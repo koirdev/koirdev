@@ -1,3 +1,6 @@
+# Important
+- The koirdev's site is currently died.
+
 # Bio
 
 - Speak: ***English (UK & US), Russian***
