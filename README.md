@@ -1,6 +1,3 @@
-# Important
-- The koirdev's site is currently died.
-
 # Bio
 
 - Speak: ***English (UK & US), Russian***
@@ -34,9 +31,7 @@
 <a href="https://kernel.org/"><img width="40" height="40" src="assets/linux-tux.png"></a>
 <a href="https://www.android.com/"><img width="40" height="40" src="assets/android.svg"></a>
 
-# Credits
 
-pfp: https://pin.it/6e2SIx63s
 
 
 
