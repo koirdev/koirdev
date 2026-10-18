@@ -18,13 +18,13 @@ Web
 <a href="https://html.spec.whatwg.org/multipage/"><img width="40" height="40" src="assets/html5.svg"></a>
 <a href="https://www.w3.org/Style/CSS/"><img width="40" height="40" src="assets/css.svg"></a>
 
-Libraries
+<!--Libraries
 ---
 placeholder for now
 
 Other
 ---
-placeholder for now
+placeholder for now -->
 
  # Learning
 <a href="https://rust-lang.org/"><img width="40" height="40" src="assets/rust.svg"></a>
