@@ -3,14 +3,28 @@
 - Speak: ***English (UK & US), Russian***
 - Programmer & Game developer
 - Have been programming for 6 years
+  
 
- # Skills
+Programming languages
+---
 <a href="https://python.org/"><img width="40" height="40" src="assets/python.svg"></a>
 <a href="https://isocpp.org/"><img width="40" height="40" src="assets/cpp.svg"></a>
 <a href="https://www.c-language.org/"><img width="40" height="40" src="assets/c.svg"></a>
+<a href="https://www.lua.org/"><img width="40" height="40" src="assets/lua.png"></a>
+
+
+Web 
+---
 <a href="https://html.spec.whatwg.org/multipage/"><img width="40" height="40" src="assets/html5.svg"></a>
 <a href="https://www.w3.org/Style/CSS/"><img width="40" height="40" src="assets/css.svg"></a>
-<a href="https://www.lua.org/"><img width="40" height="40" src="assets/lua.png"></a>
+
+Libraries
+---
+placeholder for now
+
+Other
+---
+placeholder for now
 
  # Learning
 <a href="https://rust-lang.org/"><img width="40" height="40" src="assets/rust.svg"></a>
@@ -34,11 +48,10 @@
 <a href="https://kernel.org/"><img width="40" height="40" src="assets/linux-tux.png"></a>
 <a href="https://www.android.com/"><img width="40" height="40" src="assets/android.svg"></a>
 
-# Homebrew
+# Homebrew development
 <a href="#"><img width="50" height="50" src="assets/psp.svg"></a>
 <a href="#"><img width="50" height="50" src="assets/ps1.svg"></a>
 <a href="#"><img width="50" height="50" src="assets/Sega_Genesis.webp"></a>
-
 
 
 
