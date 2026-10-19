@@ -50,9 +50,8 @@ placeholder for now -->
 
 # Homebrew development
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="assets/psp.svg"> <!-- white icon for dark theme -->
-    <img src="assets/psp-white.svg"> <!-- black icon for white theme -->
-</picture>
+ <source media="(prefers-color-scheme: dark)" width="50" height="50" srcset="assets/psp.svg"> <!-- white icon for dark theme -->
+    <img width="50" height="50" src="assets/psp-white.svg"></picture> <!-- black icon for white theme -->
 <a href="#"><img width="50" height="50" src="assets/ps1.svg"></a>
 <a href="#"><img width="50" height="50" src="assets/Sega_Genesis.webp"></a>
 
