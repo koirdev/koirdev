@@ -52,6 +52,7 @@ placeholder for now -->
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="assets/psp.svg"> <!-- white icon for dark theme -->
     <img width="50" height="50" src="assets/psp-white.svg"></picture> <!-- black icon for white theme -->
+    
 <a href="#"><img width="50" height="50" src="assets/ps1.svg"></a>
 <a href="#"><img width="50" height="50" src="assets/Sega_Genesis.webp"></a>
 
