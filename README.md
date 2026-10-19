@@ -42,19 +42,22 @@ placeholder for now -->
 <a href="https://www.love2d.org/"><img width="40" height="40" src="assets/love2d.png" alt="Love2D"></a>
 <a href="https://www.raylib.com/"><img width="40" height="40" src="assets/Raylib_logo.png" alt="Raylib"></a>
 
+Homebrew development
+------
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="assets/psp-white.svg"> <!-- white icon for dark theme -->
+    <img width="60" height="60" src="assets/psp.svg" alt="PSP"> <a href="#">  <!-- black icon for white theme --> <img width="50" height="50" src="assets/ps1.svg" alt="PlayStation 1"></a>
+<a href="#"><img width="60" height="30" src="assets/Sega_Genesis.webp" alt="Sega Genesis/Mega Drive"></a>
+
+</picture>
+
 
 # Work with
 <a href="https://support.microsoft.com/en-us/windows"><img width="40" height="40" src="assets/windows.png" alt="Windows"></a>
 <a href="https://kernel.org/"><img width="40" height="40" src="assets/linux-tux.png" alt="Linux"></a>
 <a href="https://www.android.com/"><img width="40" height="40" src="assets/android.svg" alt="Android"></a> 
 
-# Homebrew development
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="assets/psp-white.svg"> <!-- white icon for dark theme -->
-    <img width="60" height="60" src="assets/psp.svg" alt="PSP"> <a href="#"><img width="50" height="50" src="assets/ps1.svg" alt="PlayStation 1"></a>
-<a href="#"><img width="60" height="30" src="assets/Sega_Genesis.webp" alt="Sega Genesis/Mega Drive"></a>
 
-</picture> <!-- black icon for white theme -->
     
 
 
