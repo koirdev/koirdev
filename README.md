@@ -49,16 +49,19 @@ placeholder for now -->
 <a href="https://www.android.com/"><img width="40" height="40" src="assets/android.svg"></a>
 
 # Homebrew development
-<a href="#"><img width="50" height="50" src="assets/psp.svg"></a>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="assets/psp-white.svg"> <!-- white icon for dark theme -->
+    <img width="50" height="50" src="assets/psp.svg"> <!-- black icon for white theme -->
+</picture>
 <a href="#"><img width="50" height="50" src="assets/ps1.svg"></a>
 <a href="#"><img width="50" height="50" src="assets/Sega_Genesis.webp"></a>
 
-
+<!--
 # Theme icons test
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="assets/psp-white.svg"> <!-- white icon for dark theme -->
- <img src="assets/psp.svg">
-</picture>
+<!-- <img src="assets/psp.svg"> <!-- black icon for white theme -->
+<!--</picture> --!>
 
 
 
