@@ -51,12 +51,12 @@ placeholder for now -->
 # Homebrew development
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="assets/psp-white.svg"> <!-- white icon for dark theme -->
-    <img width="50" height="50" src="assets/psp.svg" alt="PSP">
+    <img width="50" height="50" src="assets/psp.svg" alt="PSP"> <a href="#"><img width="50" height="50" src="assets/ps1.svg" alt="PlayStation 1"></a>
+<a href="#"><img width="50" height="50" src="assets/Sega_Genesis.webp" alt="Sega Genesis/Mega Drive"></a>
 
 </picture> <!-- black icon for white theme -->
     
-<a href="#"><img width="50" height="50" src="assets/ps1.svg" alt="PlayStation 1"></a>
-<a href="#"><img width="50" height="50" src="assets/Sega_Genesis.webp" alt="Sega Genesis/Mega Drive"></a>
+
 
 <!--
 # Theme icons test
