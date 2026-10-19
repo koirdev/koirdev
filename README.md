@@ -52,7 +52,7 @@ placeholder for now -->
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="assets/psp-white.svg"> <!-- white icon for dark theme -->
     <img width="60" height="60" src="assets/psp.svg" alt="PSP"> <a href="#"><img width="50" height="50" src="assets/ps1.svg" alt="PlayStation 1"></a>
-<a href="#"><img width="60" height="40" src="assets/Sega_Genesis.webp" alt="Sega Genesis/Mega Drive"></a>
+<a href="#"><img width="60" height="30" src="assets/Sega_Genesis.webp" alt="Sega Genesis/Mega Drive"></a>
 
 </picture> <!-- black icon for white theme -->
     
