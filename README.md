@@ -54,8 +54,13 @@ placeholder for now -->
 <a href="#"><img width="50" height="50" src="assets/Sega_Genesis.webp"></a>
 
 
-
-
+# Theme icons test
+<img
+  width="150"
+  height="133"
+  src="assets/ps1.svg"
+  alt="assets/psp.svg"
+/>
 
 
 
