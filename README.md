@@ -26,6 +26,8 @@ Other
 ---
 placeholder for now -->
 
+---
+
  # Learning
 <a href="https://rust-lang.org/"><img width="40" height="40" src="assets/rust.svg" alt="Rust Language"></a>
 <a href="https://www.sfml-dev.org/"><img width="40" height="40" src="assets/sfml.svg" alt="SFML"></a>
@@ -51,6 +53,7 @@ Homebrew development
 
 </picture>
 
+---
 
 # Work with
 <a href="https://support.microsoft.com/en-us/windows"><img width="40" height="40" src="assets/windows.png" alt="Windows"></a>
